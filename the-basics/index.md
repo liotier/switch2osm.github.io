@@ -31,9 +31,9 @@ Rendering your own tiles gives you complete control over their appearance. You c
 
 There is no single canonical library: you can choose whichever suits your needs best. The two most popular JavaScript libraries for displaying OSM tiles are:
 
-* OpenLayers – powerful and long-established
+* [OpenLayers](https://openlayers.org/) – powerful and long-established
 
-* Leaflet – lightweight and easy-to-learn
+* [Leaflet](https://leafletjs.com/) – lightweight and easy-to-learn
 
 APIs are also available for mobile platforms, such as [Route-Me](https://github.com/route-me/route-me) (iOS) and [osmdroid](https://github.com/osmdroid/osmdroid) (Android).
 
